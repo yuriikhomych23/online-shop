@@ -54,5 +54,19 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Electronic Scooter Pro Black",
+        "image": "electronic-scooter.jpg",
+        "description":"Xiaomi Mi Electronic Scooter Pro Black",
+        "price": 2199.99
+    },
+    {
+        "id": "10",
+        "title": "Weapon",
+        "image": "weapon.jpg",
+        "description":"Uzi",
+        "price": 3999.99
     }
 ]
